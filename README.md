@@ -32,6 +32,11 @@ This is a program that draws a fragment of such a random tiling for $g=2$, i.e. 
 
 To run the program, execute the file `main.py`. It will output the SVG image of a random hyperbolic tiling by octagons to a file `tiling.svg` in the current folder.
 
+### Examples of output images
+
+![Output example 1](https://github.com/mntroshkin/teichmuller-explorer/blob/main/output_example1.png?raw=true)
+![Output example 2](https://github.com/mntroshkin/teichmuller-explorer/blob/main/output_example2.png?raw=true)
+
 ### Acknowledgements
 
 I relied heavily on archived materials from a similar project, which had a greater interactive functional: "The Teichmüller Navigator", created in 1993 by Deva Van Der Werf, David Ben-Zvi, and Paul Burchard. Miraculously the project page has survived to this day: http://www.geom.uiuc.edu/apps/teich-nav/report/report.html.
