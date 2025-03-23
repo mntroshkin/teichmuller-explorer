@@ -20,7 +20,7 @@ This is a program that draws a fragment of such a random tiling for $g=2$, i.e. 
    
    ```bash
    git clone https://github.com/mntroshkin/teichmuller-explorer.git
-   cd my-python-program
+   cd teichmuller-explorer
    ```
 
 2. **Install dependencies:**
@@ -31,6 +31,10 @@ This is a program that draws a fragment of such a random tiling for $g=2$, i.e. 
 ### Usage
 
 To run the program, execute the file `main.py`. It will output the SVG image of a random hyperbolic tiling by octagons to a file `tiling.svg` in the current folder.
+
+```bash
+python main.py
+```
 
 ### Examples of output images
 
